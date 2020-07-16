@@ -1,0 +1,14 @@
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\bin\Release\SemiconductorIndustryAnalysis.exe.config
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\bin\Release\SemiconductorIndustryAnalysis.exe
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\bin\Release\SemiconductorIndustryAnalysis.pdb
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\SemiconductorIndustryAnalysis.csproj.ResolveComReference.cache
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\SemiconductorIndustryAnalysis.Form1.resources
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\SemiconductorIndustryAnalysis.Properties.Resources.resources
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\SemiconductorIndustryAnalysis.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\SemiconductorIndustryAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\SemiconductorIndustryAnalysis.exe
+C:\Users\alpag\source\repos\SemiconductorIndustryAnalysis\SemiconductorIndustryAnalysis\obj\Release\SemiconductorIndustryAnalysis.pdb
