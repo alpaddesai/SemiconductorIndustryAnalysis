@@ -9,7 +9,7 @@ Please download the executable for details.
 All images are either custom by Alpa D Desai or a reference name is provided.
 
 ## Front page
-![image](image)
+![image](image.png)
 
 ## Executive summary
 ![image](image1.png)
