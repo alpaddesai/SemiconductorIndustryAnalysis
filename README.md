@@ -38,3 +38,4 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Regression analysis III
 ![image](image9.png)
 
+Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
